@@ -1,0 +1,36 @@
+{
+	"compilerOptions": {
+		"allowJs": true,
+		"allowSyntheticDefaultImports": true,
+		"allowUnreachableCode": false,
+		"declaration": false,
+		"downlevelIteration": true,
+		"experimentalDecorators": true,
+		"forceConsistentCasingInFileNames": true,
+        "moduleResolution": "node",
+		"noImplicitAny": true,
+		"noImplicitReturns": true,
+		"noUnusedLocals": true,
+		"preserveConstEnums": true,
+		"removeComments": false,
+		"traceResolution": false,
+		"sourceMap": false,
+		"inlineSourceMap": true,
+		"importHelpers": true,
+		"target": "ES5",
+		"resolveJsonModule": true,
+		"lib": [ "dom", "es2015", "es2016", "es2017"],
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"jsx": "react",
+		"jsxFactory": "h",
+		"baseUrl": "./"
+	},
+	"include": [
+		
+	],
+	"exclude": [
+		"node_modules"
+	]
+}
+

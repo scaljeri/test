@@ -1,0 +1,29 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.0",
+    "@babel/preset-es2015": "^7.0.0-beta.53",
+    "@types/fs-extra": "^5.0.4",
+    "@types/jest": "^23.3.10",
+    "@types/node": "^10.12.15",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "^23.6.0",
+    "child_process": "^1.0.2",
+    "es6-promise": "^4.2.5",
+    "fs-extra": "^7.0.1",
+    "jest": "^23.6.0",
+    "regenerator-runtime": "^0.13.1",
+    "ts-jest": "^23.10.5",
+    "typescript": "^3.2.2"
+  },
+  "dependencies": {
+    "@types/glob": "^7.1.1",
+    "hashmark": "^5.0.0"
+  }
+}
